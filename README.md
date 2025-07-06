@@ -77,3 +77,22 @@ A modular, full-stack web application for intelligent multi-source text summariz
     ```bash
     streamlit run app.py
     ```
+
+## Future Enhancements
+
+- Support for more file formats (DOCX, HTML)
+- Semantic search integration
+- On-the-fly model fine-tuning
+- Hugging Face Hub integration for model management
+
+## References and Resources
+
+    txtai – Semantic Search Platform
+
+    PyPDF2 – PDF Parsing Toolkit
+
+    Hugging Face Transformers
+
+## About
+
+Multi-Source Summarization Suite is built to bridge the gap between accessible summarization tools and the capabilities of fine-tuned NLP models. Designed for researchers, students, and content professionals, this system enables high-quality summarization from multiple data sources in a modular and extensible architecture.
