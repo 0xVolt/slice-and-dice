@@ -87,11 +87,9 @@ A modular, full-stack web application for intelligent multi-source text summariz
 
 ## References and Resources
 
-    txtai – Semantic Search Platform
-
-    PyPDF2 – PDF Parsing Toolkit
-
-    Hugging Face Transformers
+- [txtai – Semantic Search Platform](https://github.com/neuml/txtai)
+- [PyPDF2 – PDF Parsing Toolkit](https://github.com/py-pdf/PyPDF2)
+- [Hugging Face Transformers](https://huggingface.co/)
 
 ## About
 
