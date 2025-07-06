@@ -60,4 +60,20 @@ A modular, full-stack web application for intelligent multi-source text summariz
    ```bash
    git clone https://github.com/your-username/multisource-summarizer.git
    cd multisource-summarizer
+   ```
 
+2. Set a Virtual Environment
+   ```bash
+   python -m venv env
+   source env/bin/activate  # or env\Scripts\activate on Windows
+   ```
+
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Launch the application:
+    ```bash
+    streamlit run app.py
+    ```
