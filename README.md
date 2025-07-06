@@ -57,10 +57,10 @@ A modular, full-stack web application for intelligent multi-source text summariz
 ## Setup Instructions
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/multisource-summarizer.git
-   cd multisource-summarizer
-   ```
+```bash
+git clone https://github.com/your-username/multisource-summarizer.git
+cd multisource-summarizer
+```
 
 2. Set a Virtual Environment
    ```bash
